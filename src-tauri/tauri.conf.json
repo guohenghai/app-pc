@@ -7,7 +7,7 @@
 	},
 	"package": {
 		"productName": "apptest",
-		"version": "0.0.0"
+		"version": "0.0.9"
 	},
 	"tauri": {
 		"allowlist": {
