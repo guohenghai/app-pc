@@ -3,26 +3,18 @@
 		"beforeDevCommand": "pnpm dev",
 		"beforeBuildCommand": "pnpm build",
 		"devPath": "http://localhost:1420",
-		"distDir": "../dist",
-		"withGlobalTauri": false
+		"distDir": "../dist"
 	},
 	"package": {
-		"productName": "ofd-app",
+		"productName": "apptest",
 		"version": "0.0.0"
 	},
 	"tauri": {
-		"updater": {
-			"active": true,
-			"dialog": false,
-			"endpoints": ["https://guohenghai.github.io/app-pc/update.json"],
-			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDQzMzM2MzE1MERENTYxQ0UKUldUT1lkVU5GV016UThMRUxtdXkyWi8vd2dFQkM5T0ErMTczY1hjNm5NVnJuWEhGY1piM3paQjYK",
-			"windows": {
-				"installMode": "passive",
-				"installerArgs": []
-			}
-		},
 		"allowlist": {
 			"all": false,
+			"http": {
+				"scope": ["http://**", "https://**"]
+			},
 			"shell": {
 				"all": false,
 				"open": true
@@ -31,17 +23,23 @@
 		"bundle": {
 			"active": true,
 			"targets": "all",
-			"identifier": "com.cssca.dev",
+			"identifier": "com.cssca.app",
 			"icon": ["icons/32x32.png", "icons/128x128.png", "icons/128x128@2x.png", "icons/icon.icns", "icons/icon.ico"]
 		},
 		"security": {
 			"csp": null
 		},
+		"updater": {
+			"active": true,
+			"dialog": false,
+			"endpoints": ["https://guohenghai.github.io/app-pc/update.json"],
+			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlEQTM0NUM3REZDM0M3RkIKUldUN3g4UGZ4MFdqbmR0RlpxbnlpanRoM1lMdUNXNWoyQ096VEo2Ry9oUzVZalg1QjdkVnozcjQK"
+		},
 		"windows": [
 			{
 				"fullscreen": false,
 				"resizable": true,
-				"title": "ofd-app",
+				"title": "apptest",
 				"width": 800,
 				"height": 600
 			}
