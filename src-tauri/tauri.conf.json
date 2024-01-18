@@ -31,7 +31,7 @@
 		},
 		"updater": {
 			"active": true,
-			"dialog": false,
+			"dialog": true,
 			"endpoints": ["https://guohenghai.github.io/app-pc/update.json"],
 			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlEQTM0NUM3REZDM0M3RkIKUldUN3g4UGZ4MFdqbmR0RlpxbnlpanRoM1lMdUNXNWoyQ096VEo2Ry9oUzVZalg1QjdkVnozcjQK"
 		},
