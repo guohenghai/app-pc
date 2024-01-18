@@ -1,5 +1,5 @@
 {
-	"version": "v0.0.7",
+	"version": "v0.0.9",
 	"notes": "Test version",
 	"pub_date": "2024-01-18T15:40:57Z",
 	"platforms": {
@@ -12,8 +12,8 @@
 			"url": "https://github.com/guohenghai/app-pc/releases/download/untagged-fb1b4d08ebc3b422b1c0/apptest_0.0.0_amd64.AppImage"
 		},
 		"windows-x64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN3g4UGZ4MFdqblV4ajJHMGFCaGMrRldWRU9XTS9UOFpOaEdzbWR5MzNTMXFPbE5BS2hoT1dqajdKVjg0RzcwTlRRQnIyUHNrN0pKUkg1NGdJcDdpTmZ5S285cmMrMGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NTYzMDA3CWZpbGU6YXBwdGVzdF8wLjAuMF94NjRfZW4tVVMubXNpLnppcAp5V0tRdWx0YXRzQkpiemhNcURSMmpzekpPUm5DbXh5YVRTSjdxMUxqUFNnWkd0MEFaUzRDSkorbDlaOHV0c0pQWkF0ckFRRnQxMHZXcFpROGo3dUhDUT09Cg==",
-			"url": "https://github.com/guohenghai/app-pc/releases/download/untagged-fb1b4d08ebc3b422b1c0/apptest_0.0.0_x64_en-US.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN3g4UGZ4MFdqblQrY3E3S24wOEJSQ1d6S1U4Q0xvRnhDclNPZWhQR1FtUUtTcFAzNVpkdVF1cHJDRUZwSE5VeHpMbklOYVcyVHMyT2c4WCtxWUU3bE1wR2MvcWQ0U2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NTY1NzA0CWZpbGU6YXBwdGVzdF8wLjAuOV94NjRfZW4tVVMubXNpLnppcAp4NE85OGY4bXB5ZWtkczNTL1FtUC84Nyt5NWVHdmJ6Nk42cEllSWh5cERsWGNSdEhlOTlyWmFpMEpzald3M1BaZkNSTnJzNklqY1Y4czVTMnlNYndDUT09Cg==",
+			"url": "https://github.com/guohenghai/app-pc/releases/download/untagged-3c030f443e62bd11307e/apptest_0.0.9_x64_en-US.msi.zip"
 		}
 	}
 }
