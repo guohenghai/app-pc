@@ -17,7 +17,7 @@
 		},
 		"windows-x64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN3g4UGZ4MFdqblFHWkJLUm5YNXpEd2lkV1V4WnlBWGovd1NXcU5mZmZXWTFzOTNoajMxcGk2c2NHQlp0UkY1MU5xblpuY0JXdDJmZzZnRHBSUmQ0bFZrZE5RbmdweVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NjI1NTMyCWZpbGU6YXBwdGVzdF8wLjEuMV94NjRfZW4tVVMubXNpLnppcAorWmNkNVJvbld0ZkpxUGhHN2dPeHhoQnFvQnZGUjlPWlFGQk1xWjRvd3lrK2xNYUM2TjhJL3Ewc2M0elkyMmpUQkJSUmVNT0xIeEYrbkIyZzFROVZDZz09Cg==",
-			"url": "https://github.com/guohenghai/app-pc/releases/download/v0.1.12/apptest_0.1.1_x64_en-US.msi.zip"
+			"url": "https://guohenghai.oss-cn-shanghai.aliyuncs.com/ofd-reader/pc/0.1.12/apptest_0.1.1_x64_en-US.msi.zip"
 		}
 	}
 }
