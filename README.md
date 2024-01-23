@@ -1,7 +1,23 @@
-# Tauri + Vue 3
+<!--
+ * @Author       : 郭恒海
+ * @Date         : 2024-01-17 14:01:18
+ * @LastEditors  : 郭恒海
+ * @LastEditTime : 2024-01-23 11:37:54
+ * @FilePath     : /app-pc/README.md
+ * @Description  : 
+ * guohenghai@126.com
+-->
+##### 介绍
 
-This template should help get you started developing with Tauri + Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+OFD PC 端阅读器
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+##### 运行命令
+推荐使用 pnpm，允许使用其他构建工具。
+``` SHELL
+# 安装
+pnpm install
+# 浏览器中运行
+pnpm dev
+# 客户端中运行
+pnpm tauri dev
+```
